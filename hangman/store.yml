@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+turns: 0
+lives: 7
+wrong:
+- a
+right:
+- i
+- o
+word: bloodiness
